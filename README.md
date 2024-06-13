@@ -50,6 +50,6 @@
     <img src="https://github.com/httpadrfis/Caminhantes_Aleatorios/assets/127459067/58dcedc2-c3b6-4d35-a718-98a747223036" alt="Screenshot 2024-04-05 135151">
     <img src="https://github.com/httpadrfis/Caminhantes_Aleatorios/assets/127459067/3a22292b-14e0-483e-ae73-3c5bdf337706" alt="Screenshot 2024-04-05 135209">
     <h2>Author</h2>
-    <p><a href="https://github.com/httpadrfis">httpadrfis</a></p>
+    <p><a href="https://github.com/adriellymd">adriellymd</a></p>
 </body>
 </html>
